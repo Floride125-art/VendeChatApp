@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Wähle eine Sprache",
+    "select_language": "Ändern Sie eine Sprache",
+    "select_theme": "Thema wählen",
+    "skip": "überspringen",
+    "chat_and_call" : "PLAUDERN UND RUFAN",
+    "communicate": "KOMMUNIZIEREN",
+    "message_1": "1. Chatten Sie in Ihrer Sprache und wir werden alle Übersetzungen bearbeiten.",
+    "message_2" :"2. Anruf, Videoanruf und offener Raum mit Unternehmen und mehreren Freunden gleichzeitig. ",
+    "message_3":"3. Statusaktualisierung für und von Unternehmen, Freunden, der Öffentlichkeit usw. Veröffentlichen und lesen"
+ 
+}

@@ -1,0 +1,14 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "选择语言",
+    "select_language": " 改变语言",
+    "select_theme": "选择主题",
+    "skip": "跳跃",
+    "chat_and_call" : "聊天和通话",
+    "communicate": "通信",
+    "message_1": "1.用您的语言聊天，我们将处理所有翻译。",
+    "message_2" :"2.通话，视频通话，一次可以与企业和多个朋友一起打开会议室。",
+    "message_3":"3.与企业，朋友，公众等之间的发布和读取状态更新"
+
+ 
+}

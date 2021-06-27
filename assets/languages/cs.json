@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Vyberte jazyk",
+    "select_language": "Změnit jazyk",
+    "select_theme": "Vyberte téma",
+    "skip": "přeskočit",
+    "chat_and_call" : "CHAT A VOLÁNÍ",
+    "communicate": "KOMUNIKOVAT",
+    "message_1": "1. Chatujte ve vašem jazyce a my zajistíme všechny překlady. ",
+    "message_2" :"2. Hovor, videohovor a otevřená místnost s obchodem a více přáteli najednou",
+    "message_3":"3. Zveřejnění a čtení aktualizace stavu do az obchodu, přátel, veřejnosti atd."
+ 
+}

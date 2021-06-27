@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Seleziona una lingua",
+    "select_language": "Cambia una lingua",
+    "select_theme": "Seleziona il tema",
+    "skip": "Salta",
+    "chat_and_call" : "CHATTA E CHIAMA",
+    "communicate": "COMUNICARE",
+    "message_1": "1. Chatta nella tua lingua e gestiremo tutte le traduzioni. ",
+    "message_2" :"2. Chiama, videochiamata e apri stanza con lavoro e più amici contemporaneamente ",
+    "message_3":"3. Pubblica e leggi aggiornamenti di stato da e verso aziende, amici, pubblico ecc."
+ 
+}

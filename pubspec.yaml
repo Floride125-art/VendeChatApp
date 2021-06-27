@@ -1,0 +1,190 @@
+name: vendeapp
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  material_floating_search_bar: ^0.3.4
+  convex_bottom_bar: ^3.0.0
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+  shared_preferences: 
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/Group 519.png
+    - assets/images/rect.png
+    
+    - assets/images/messg.png
+    - assets/images/Vector.png
+    - assets/images/Group 701.png
+    - assets/images/fofo.jpg
+    - assets/images/translateA.png
+    - assets/images/translateB.png
+    - assets/images/Ellipse 32.png
+    - assets/images/dots.png
+  
+    - assets/images/Group 725.png
+   
+    - assets/images/maso.png
+    - assets/images/munty.jpg
+
+    - assets/images/cardnum.png
+    - assets/images/Group 699.png
+    - assets/images/Group 688.png
+  
+    - assets/images/moneyplus.png
+    - assets/images/Group 682.png
+    - assets/images/Union.png
+    - assets/images/notific.png
+    - assets/images/addmoney.png
+    - assets/images/gainmoney.png
+    - assets/images/more.png
+    - assets/images/pics.png
+  
+    
+    - assets/images/Group 696.png
+    - assets/images/Group 693.png
+ 
+    - assets/images/Vector 1.png
+    - assets/images/theback.png
+    - assets/images/send.png
+    - assets/images/callIcon.png
+    - assets/images/rwanda.png
+    - assets/images/plus.png
+    - assets/images/add.png
+    - assets/images/Group 720.png
+    - assets/images/Group 719.png
+    - assets/images/Group 713.png
+    - assets/images/Group 709.png
+    - assets/images/Group 784.png
+    - assets/images/reflesh.png
+    - assets/images/outCash.png
+    - assets/images/messyg.png
+    - assets/images/closee.png
+    - assets/images/pay.png
+    - assets/images/downl.png
+    - assets/images/Group 202.png
+    - assets/images/Group 600.png
+    - assets/images/more-vertical-o.png
+    - assets/images/Group.png
+    - assets/images/aho.png
+    - assets/images/addm.png
+    - assets/images/sendm.png
+    - assets/images/rectass.png
+    
+    - assets/images/flower.png
+    - assets/images/rectan.png
+    - assets/images/ra.jpg
+    - assets/images/wine.png
+    - assets/images/Capture.PNG
+    - assets/images/delete.png
+    - assets/images/edit.png
+    - assets/images/text.png
+    - assets/images/hangup.png
+    - assets/images/Mute.png   
+    - assets/images/cup.png
+    - assets/images/videomute.png
+    - assets/images/walllet.png
+    - assets/images/video.png
+    - assets/images/recall.png
+    - assets/images/linear1.png
+    - assets/images/linear2.png
+    - assets/images/cardCirc.png
+    - assets/images/mulla.png
+    - assets/images/people.png
+    - assets/images/scroll.png
+
+
+    - assets/images/image 26.png
+    - assets/images/image 27.png
+    - assets/images/image 20.png
+    - assets/images/image 19.png
+    - assets/languages/en.json
+    - assets/languages/fr.json
+    - assets/languages/zh.json
+    - assets/languages/bg.json
+    - assets/languages/de.json
+    - assets/languages/af.json
+    - assets/languages/es.json
+    - assets/languages/ar.json
+    - assets/languages/el.json
+    - assets/languages/cs.json
+    - assets/languages/et.json
+    - assets/languages/fi.json
+    - assets/languages/he.json
+    - assets/languages/hi.json
+    - assets/languages/hu.json
+    - assets/languages/hr.json
+    - assets/languages/id.json
+    - assets/languages/is.json
+    - assets/languages/it.json
+    - assets/languages/ja.json
+    - assets/languages/ko.json
+    - assets/languages/zh.json
+    - .env
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

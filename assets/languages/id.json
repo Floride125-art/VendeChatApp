@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language":"Pilih Bahasa",
+    "select_language":"Ubah Bahasa",
+    "select_theme": "Pilih tema",
+    "skip": "Melewatkan",
+    "chat_and_call" : "CHAT DAN PANGGILAN",
+    "communicate": "MENYAMPAIKAN",
+    "message_1": "1. Ngobrol dalam bahasa Anda dan kami akan menangani semua terjemahan.",
+    "message_2" :"2. Telepon, Panggilan video dan buka Ruangan dengan bisnis dan beberapa teman sekaligus",
+    "message_3":"3. Posting dan Baca pembaruan status ke dan dari bisnis, teman, publik, dll."
+ 
+}

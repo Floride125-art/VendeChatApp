@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Valitse kieli",
+    "select_language": "Vaihda kieli",
+    "select_theme": "Valige teema",
+    "skip": "Ohita",
+    "chat_and_call" : "PÖYTÄ JA Soita",
+    "communicate": "YHTEYS",
+    "message_1": "1. Keskustele omalla kielelläsi, ja me hoidamme kaikki käännökset.",
+    "message_2" :"2. Soita, videopuhelu ja avaa huone, jossa on yrityksiä ja useita ystäviä kerralla",
+    "message_3":"3. Lähetä ja lue -tilapäivitys yrityksille, ystäville, julkisille jne."
+ 
+}

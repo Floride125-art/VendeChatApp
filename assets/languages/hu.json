@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Válasszon nyelvet",
+    "select_language": "Nyelv módosítása",
+    "select_theme": "Válassz témát",
+    "skip": "Ugrás",
+    "chat_and_call" : "CHAT ÉS HÍVÁS",
+    "communicate": "KOMMUNIKÁLNI",
+    "message_1": "1. Csevegjen az Ön nyelvén, és mi minden fordítást kezelünk. ",
+    "message_2" :"2. Hívás, videohívás és nyitott szoba üzleti és több baráttal egyszerre",
+    "message_3":"3. Helyzetfrissítés közzététele és olvasása üzleti, baráti, nyilvános stb"
+ 
+}

@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Selecciona un idioma",
+    "select_language": "Cambiar un idioma",
+    "select_theme": "Seleccione el tema",
+    "skip": "omitir",
+    "chat_and_call" : "CHAT Y LLAMA",
+    "communicate": "COMUNICAR",
+    "message_1": "1. Chatee en su idioma y nos encargaremos de todas las traducciones. ",
+    "message_2" :"2. Llame, haga videollamadas y abra la habitación con negocios y varios amigos a la vez.",
+    "message_3":"3. Publique y lea actualizaciones de estado hacia y desde negocios, amigos, público, etc."
+ 
+}

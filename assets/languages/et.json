@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Valige keel",
+    "select_language": "Keele muutmine",
+    "select_theme": "Valige teema",
+    "skip": "vahele jätma",
+    "chat_and_call" : " Vestelda ja helistada",
+    "communicate": "SEDA",
+    "message_1": " 1. Vestelge oma keeles ja me tegeleme kõigi tõlgetega.",
+    "message_2" :" 2. Kõne, videokõne ja avatud tuba koos äri ja mitme sõbraga korraga ",
+    "message_3":"3. Olekuvärskenduste postitamine ja lugemine ettevõtetele, sõpradele, avalikele jne"
+ 
+}

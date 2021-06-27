@@ -1,0 +1,14 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Odaberite jezik",
+    "select_language": "Promijenite jezik",
+    "select_theme": "Odaberite Tema",
+    "skip": "Preskočiti",
+    "chat_and_call" : "ČATATI I POZOVI",
+    "communicate": "KOMUNICIRATI",
+    "message_1": "1. Razgovarajte na vašem jeziku i mi ćemo se pobrinuti za sve prijevode. ",
+    "message_2" :"2. Poziv, video poziv i otvaranje sobe s tvrtkom i više prijatelja odjednom",
+    "message_3":" 3. Objavljivanje i čitanje ažuriranja statusa poslovnim, prijateljskim, javnim itd."
+
+ 
+}

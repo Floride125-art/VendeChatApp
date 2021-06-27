@@ -1,0 +1,13 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Veldu tungumál",
+    "select_language": "Skiptu um tungumál",
+    "select_theme": "Veldu Þema",
+    "skip": "Sleppa",
+    "chat_and_call" : "SPJALL OG KALL",
+    "communicate": "SAMKOMA",
+    "message_1": "1. Spjallaðu á þínu tungumáli og við munum sjá um allar þýðingar.",
+    "message_2" :" 2. Hringdu, myndsímtal og opnaðu herbergi með viðskiptum og mörgum vinum í einu",
+    "message_3":"3. Sendu og lestu stöðuuppfærslu til og frá fyrirtæki, vinum, almenningi osfrv."
+ 
+}

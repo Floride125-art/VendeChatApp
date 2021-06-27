@@ -1,0 +1,91 @@
+{
+    "app_name": "VendeChat",
+    "change_language": "Select Native Language",
+    "select_language": "Change a Language",
+    "select_theme": "Select Theme",
+    "skip": "Skip",
+    "welcome" : "Welcome",
+    "communicate": "COMMUNICATE",
+    "chat_and_call" : "CHAT AND CALL",
+    "title1" : "SEND AND PAY",
+    "title2" : "SHOPS AND BUSINESS",
+    "title3" : "PLAN AND EXECUTE",
+    
+    "subtitle1": "WALLET",
+    "subtitle2": "E-BUSINESSES",
+    "subtitle3": "PLATFORM",
+    
+    "message_1": "1. Chat in your language and we will handle all translations.",
+    "message_2" :"2. Call, Video call and open Room with business and multiple friends at once ",
+    "message_3":"3. Post and Read status update to and from business, friends, public etc",
+    "call_page":"Call Page",
+    "message_page":"Message Page",
+    "wallet_page":"Wallet Page",
+    "call":"Call",
+    "message":"Message",
+    "wallet":"Wallet",
+    "start":"Start",
+    "Resert_Password":"Resert Password",
+    "continue" : "Continue",
+    "Confirm_password": "Confirm password",
+    "forgot_password" : "Forgot Password",
+    "New_password": "New password",
+    "message_4": "1. Send money to friends for free across the world",
+    "message_5" :"2. Pay Business (Shops, Hospital, Taxis and many more",
+    "message_6":"3. Simply Add money and cash out by credit cards, mobile money, etc",
+    "message_7": "1. We are multinational e-business platform. glow your business with us",
+    "message_8" :"2. Open online shops or business for your phyical shop with easy setup. ",
+    "message_9":"3. For Vendee search any business and to to their page to buy and pay any products or services easily",
+    "message_10": "1. We are multinational e-business platform. glow your business with us.",
+    "message_11" :"2. Open online shops or business for your phyical shop with easy setup. ",
+    "message_12":"3. For Vendee search any business and to to their page to buy and pay any products or services easily ",
+    "password":"password",
+    "Forget Password?":"Forget Password?",
+    "Read our Privacy Policy. Click Start":"Read our Privacy Policy. Click Start",
+    "“Agree & Continue” to accept the":"“Agree & Continue” to accept the",
+    "Terms of Service.":"Terms of Service.",
+    "Password can not be empty":"Password can not be empty",
+    "Password is short":"Password is short",
+    "Click here to register": "Click here to register",
+    "login" : "Login",
+    "register" : "Register",
+    "Verirfy Your Number":"Verirfy Your Number",
+    "Check your SMS Inbox we have sent you the code with 6 digit at":"Check your SMS Inbox we have sent you the code with 6 digit at",
+    "Dont receive code yet?":"Dont receive code yet?",
+    "Resent code":"Resent code",
+    "Continue":"Continue",
+    "message_13" : "Add Your Phone you used while signing Up in order to recieve an SMS.",
+    
+    "message_14": "Please resert your password by entering your new password and confirm it",
+    "complete_profile":"Complete Your Profile",
+    "username":"Enter Your username",
+    "status":"Enter your status text(“I am busy!”)",
+    "would_you":"Would you like to shop or send Money?",
+    "yes":"Yes",
+    "No":"No",
+    "translate_message": "Would you prefer translated messages ?",
+    "add_card":"Add Payment Info",
+    "search":"Search a friend or a business",
+    "Me":"me",
+    "Calling":"Calling",
+    "addmoney":"Add Money",
+    "sendmoney":"Send Money",
+    "history":"History",
+    "paybusiness":"Pay Business",
+    "cashout":"Cash out",
+    "balance":"Balance",
+    "shopbe":"Shopping to be approved",
+    "deposit":"money deposit",
+    "bought":"3 Items bought"
+
+
+    
+  
+    
+ 
+}
+
+
+
+
+
